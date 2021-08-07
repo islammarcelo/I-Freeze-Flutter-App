@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416379135045",
+    "project_id": "ifreeze-d1941",
+    "storage_bucket": "ifreeze-d1941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416379135045:android:d6f1cf41d232d0d45def2c",
+        "android_client_info": {
+          "package_name": "com.example.ifreezeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416379135045-m2if6ql8jf7o2ngo91hit6c62tm6drs0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ifreezeapp",
+            "certificate_hash": "d992911be52ea10d59d37c41c081b22fede5e9ee"
+          }
+        },
+        {
+          "client_id": "416379135045-kt067s4d3hlaq51mltsg260ebg3omadc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4CjoPnqMBymgzMqY3d1-X999gdo_fuoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416379135045-kt067s4d3hlaq51mltsg260ebg3omadc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
